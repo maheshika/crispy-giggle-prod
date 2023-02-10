@@ -18,9 +18,9 @@
 
 
     <scm>
-        <url>https://github.com/kasunbg/crispy-giggle-prod.git</url>
-        <developerConnection>scm:git:https://github.com/kasunbg/crispy-giggle-prod.git</developerConnection>
-        <connection>scm:git:https://github.com/kasunbg/crispy-giggle-prod.git</connection>
+        <url>https://github.com/maheshika/crispy-giggle-prod.git</url>
+        <developerConnection>scm:git:https://github.com/maheshika/crispy-giggle-prod.git</developerConnection>
+        <connection>scm:git:https://github.com/maheshika/crispy-giggle-prod.git</connection>
         <tag>HEAD</tag>
     </scm>
 
