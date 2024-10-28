@@ -10,7 +10,7 @@
     <version>1.0.37-SNAPSHOT</version>
 
     <parent>
-        <groupId>org.wso2</groupId>
+        <groupId>org.nexustest.wso2</groupId>
         <artifactId>wso2</artifactId>
         <version>31</version>
     </parent>
