@@ -10,9 +10,9 @@
     <version>1.0.37-SNAPSHOT</version>
 
     <parent>
-        <groupId>org.wso2</groupId>
+        <groupId>org.nexustest.wso2</groupId>
         <artifactId>wso2</artifactId>
-        <version>30</version>
+        <version>33</version>
     </parent>
 
 
@@ -48,4 +48,3 @@
  
  
  
-
